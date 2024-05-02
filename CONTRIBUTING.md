@@ -49,11 +49,7 @@ feat: add new feature
 ```
 
 
-
-
 ## Setup
-
-Before you start, please make the clone based on the `canary` branch, since the `main` branch is the source of truth and should always reflect the latest stable release, also the PRs will be merged to the `canary` branch.
 
 ```bash
 git clone https://github.com/dokploy/dokploy.git
